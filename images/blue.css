@@ -1,0 +1,55 @@
+/*============================================================
+ Reseller_Template_7_blue : Byethost Developement Team : 2013
+ feel free to change this stylesheet, copy in the images folder.
+ =========================================================*/
+BODY {background-image: url("images/bg.jpg");background-color: #f6f6f6;font-family: Verdana, geneva, Arial, sans-serif;font-size: 80%;
+margin:5px 0px 0px 0px;padding:0px;color:#605F5F;}
+#wrapper {margin:auto;background:#ffffff;border:0px solid #1D8CB6;}
+.fixed {width:1150px;}
+.fluid {width:97%;}
+
+#header {height:120px;padding:10px 0px 0px 10px;background:#003366;}
+#header h1 {font:150% Trebuchet MS;margin:0px;padding:0px 0px 0px 10px;color:#ff6c00;}
+#header h2 {font:110% Trebuchet MS;margin:-6px 0px 0px 0px;padding:0px 0px 0px 10px;color:#f2f2f2;}
+
+#nav {height:16px;margin:0px;padding:10px 0px 10px 0px;background:#4672c4 url("images/bgblue_nav.gif");}
+#nav a{display:inline;color:#fafafa;font:100% Arial;text-decoration:none;font-weight:bold;margin:0px 0px 0px 10px;padding:10px 4px 8px 4px;}
+#nav a:hover{color:#fff;background-color:#a60000;}
+
+a {color:#043aec;text-decoration:none;}
+a:hover {color:#7781ec;text-decoration:none;}
+
+/*#sidebar_left {float:left;background:#f6f6f6 url(images/.jpg)no-repeat;width:150px;padding:180px 6px 20px 0px;margin:0 0px 0 0;}
+#sidebar_left h2 {font:130% Arial;color:#000;padding:5px;border-top:1px solid #e5e5e5;border-bottom:1px solid #e5e5e5;}
+#sidebar_left p {font:100% Verdana;line-height:14px;}
+#sidebar_left h1,h2,h3,h4,ul,ol,blockquote {margin:0px 0;}
+#sidebar_left a {display: block;color: #000;text-decoration:none;font-size:90%;line-height:16px}
+#sidebar_left a:hover {color: #BD0000;text-decoration:none;background:#e2e2e2;font-size:90%;}*/
+
+#sidebar_right {width:230px;height:460px;float:right;margin:0px 0px 0px 10px;color:#000;padding:10px 0px 30px 10px;border:1px solid #8ca4a0;background:#b0c4df url("images/blue_side.jpg");}
+#sidebar_right h2 {font:120% geneva;color:#296abc;padding:10px;margin:0px 0px 0px 0px;}
+#sidebar_right a{display:block;color:#d50000;font:120% Aerial;text-decoration:none;margin:0px 20px 0px 0px;padding:0px;}
+#sidebar_right a:hover{color:#000;background:#cccfde;margin:0px 20px 0px 0px;}
+
+#content {background:#fafafa url("images/bg_contents.gif");background-position:center;background-repeat:no-repeat;height:550px;text-align:left;line-height:14px;margin:0px 240px 0px 0px;padding:20px 20px 50px 20px;border:0px solid #1D8CB6;}
+#content a {color: #000;text-decoration:none;}
+#content a:hover {text-decoration:none;color:#D68107;}
+#content h2 {font:130% geneva;font-weight:bold;color:#2769e5;margin:4px 0px 4px 0px;padding:0px;}
+#content h3 {font:100% geneva;margin:0px 10px 6px 10px;padding:0px;}
+#content h3:hover{font:100% geneva;color:#BD0A2E;}
+#content h1,h4,ul,ol,blockquote {margin:5px;}
+
+#footer {width:97%;height:60px;padding:0px;margin:0px;position:absolute;bottom:0;border:1px solid #d2d2d2;background:#b7c7e3 url("images/bgblue_footer.gif");text-align:center;clear:both;}
+#footer a {color: #000;text-decoration:none;padding:2px 10px 0px 10px}
+#footer a:hover {color: #555;text-decoration:none;}
+#footer p {color:#555;}
+/*Opera Fix*/
+body:before {/* thanks to Maleika (Kohoutec)*/
+content:"";
+height:100%;
+float:left;
+width:0;
+margin-top:-32767px;/* thank you Erik J - negate effect of float*/
+}
+
+

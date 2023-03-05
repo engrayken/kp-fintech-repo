@@ -1,0 +1,500 @@
+[27-Jun-2021 14:19:45 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[27-Jun-2021 14:19:53 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[27-Jun-2021 14:20:38 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[27-Jun-2021 14:21:07 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[27-Jun-2021 14:21:29 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[27-Jun-2021 14:23:14 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[27-Jun-2021 14:23:37 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[27-Jun-2021 14:23:43 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[27-Jun-2021 14:24:39 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[29-Jun-2021 12:13:27 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[29-Jun-2021 12:15:59 Africa/Lagos] PHP Fatal error:  Call to undefined function password_verify() in /home2/kenspayc/public_html/app/user.php on line 505
+[11-Jul-2021 19:40:38 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[11-Jul-2021 19:44:39 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[11-Jul-2021 19:46:05 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[11-Jul-2021 19:50:46 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[11-Jul-2021 19:52:03 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[11-Jul-2021 19:54:14 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[11-Jul-2021 19:57:36 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[11-Jul-2021 19:59:10 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[11-Jul-2021 20:02:31 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[11-Jul-2021 20:03:30 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[11-Jul-2021 20:04:38 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[11-Jul-2021 20:07:53 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[11-Jul-2021 20:09:44 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[11-Jul-2021 20:14:25 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[11-Jul-2021 20:17:24 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[11-Jul-2021 20:32:08 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[11-Jul-2021 20:36:14 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[14-Jul-2021 09:11:50 Africa/Lagos] PHP Fatal error:  Uncaught phpmailerException: SMTP Error: Could not authenticate. in /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php:1699
+Stack trace:
+#0 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1542): PHPMailer->smtpConnect(Array)
+#1 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1337): PHPMailer->smtpSend('Date: Wed, 14 J...', 'This is a multi...')
+#2 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1215): PHPMailer->postSend()
+#3 /home2/kenspayc/public_html/app/user.php(507): PHPMailer->send()
+#4 /home2/kenspayc/public_html/app/user.php(10): user_login()
+#5 {main}
+  thrown in /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php on line 1699
+[14-Jul-2021 09:12:07 Africa/Lagos] PHP Fatal error:  Uncaught phpmailerException: SMTP Error: Could not authenticate. in /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php:1699
+Stack trace:
+#0 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1542): PHPMailer->smtpConnect(Array)
+#1 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1337): PHPMailer->smtpSend('Date: Wed, 14 J...', 'This is a multi...')
+#2 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1215): PHPMailer->postSend()
+#3 /home2/kenspayc/public_html/app/user.php(507): PHPMailer->send()
+#4 /home2/kenspayc/public_html/app/user.php(10): user_login()
+#5 {main}
+  thrown in /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php on line 1699
+[14-Jul-2021 09:12:26 Africa/Lagos] PHP Fatal error:  Uncaught phpmailerException: SMTP Error: Could not authenticate. in /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php:1699
+Stack trace:
+#0 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1542): PHPMailer->smtpConnect(Array)
+#1 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1337): PHPMailer->smtpSend('Date: Wed, 14 J...', 'This is a multi...')
+#2 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1215): PHPMailer->postSend()
+#3 /home2/kenspayc/public_html/app/user.php(507): PHPMailer->send()
+#4 /home2/kenspayc/public_html/app/user.php(10): user_login()
+#5 {main}
+  thrown in /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php on line 1699
+[14-Jul-2021 09:12:41 Africa/Lagos] PHP Fatal error:  Uncaught phpmailerException: SMTP Error: Could not authenticate. in /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php:1699
+Stack trace:
+#0 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1542): PHPMailer->smtpConnect(Array)
+#1 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1337): PHPMailer->smtpSend('Date: Wed, 14 J...', 'This is a multi...')
+#2 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1215): PHPMailer->postSend()
+#3 /home2/kenspayc/public_html/app/user.php(507): PHPMailer->send()
+#4 /home2/kenspayc/public_html/app/user.php(10): user_login()
+#5 {main}
+  thrown in /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php on line 1699
+[14-Jul-2021 09:15:00 Africa/Lagos] PHP Fatal error:  Uncaught phpmailerException: SMTP Error: Could not authenticate. in /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php:1699
+Stack trace:
+#0 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1542): PHPMailer->smtpConnect(Array)
+#1 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1337): PHPMailer->smtpSend('Date: Wed, 14 J...', 'This is a multi...')
+#2 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1215): PHPMailer->postSend()
+#3 /home2/kenspayc/public_html/app/user.php(507): PHPMailer->send()
+#4 /home2/kenspayc/public_html/app/user.php(10): user_login()
+#5 {main}
+  thrown in /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php on line 1699
+[14-Jul-2021 09:17:58 Africa/Lagos] PHP Fatal error:  Uncaught phpmailerException: SMTP Error: Could not authenticate. in /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php:1699
+Stack trace:
+#0 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1542): PHPMailer->smtpConnect(Array)
+#1 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1337): PHPMailer->smtpSend('Date: Wed, 14 J...', 'This is a multi...')
+#2 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1215): PHPMailer->postSend()
+#3 /home2/kenspayc/public_html/app/user.php(507): PHPMailer->send()
+#4 /home2/kenspayc/public_html/app/user.php(10): user_login()
+#5 {main}
+  thrown in /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php on line 1699
+[14-Jul-2021 09:18:39 Africa/Lagos] PHP Fatal error:  Uncaught phpmailerException: SMTP Error: Could not authenticate. in /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php:1699
+Stack trace:
+#0 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1542): PHPMailer->smtpConnect(Array)
+#1 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1337): PHPMailer->smtpSend('Date: Wed, 14 J...', 'This is a multi...')
+#2 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1215): PHPMailer->postSend()
+#3 /home2/kenspayc/public_html/app/user.php(507): PHPMailer->send()
+#4 /home2/kenspayc/public_html/app/user.php(10): user_login()
+#5 {main}
+  thrown in /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php on line 1699
+[14-Jul-2021 09:19:06 Africa/Lagos] PHP Fatal error:  Uncaught phpmailerException: SMTP Error: Could not authenticate. in /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php:1699
+Stack trace:
+#0 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1542): PHPMailer->smtpConnect(Array)
+#1 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1337): PHPMailer->smtpSend('Date: Wed, 14 J...', 'This is a multi...')
+#2 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1215): PHPMailer->postSend()
+#3 /home2/kenspayc/public_html/app/user.php(507): PHPMailer->send()
+#4 /home2/kenspayc/public_html/app/user.php(10): user_login()
+#5 {main}
+  thrown in /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php on line 1699
+[14-Jul-2021 09:20:54 Africa/Lagos] PHP Fatal error:  Uncaught phpmailerException: SMTP Error: Could not authenticate. in /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php:1699
+Stack trace:
+#0 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1542): PHPMailer->smtpConnect(Array)
+#1 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1337): PHPMailer->smtpSend('Date: Wed, 14 J...', 'This is a multi...')
+#2 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1215): PHPMailer->postSend()
+#3 /home2/kenspayc/public_html/app/user.php(507): PHPMailer->send()
+#4 /home2/kenspayc/public_html/app/user.php(10): user_login()
+#5 {main}
+  thrown in /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php on line 1699
+[14-Jul-2021 09:21:34 Africa/Lagos] PHP Fatal error:  Uncaught phpmailerException: SMTP Error: Could not authenticate. in /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php:1699
+Stack trace:
+#0 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1542): PHPMailer->smtpConnect(Array)
+#1 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1337): PHPMailer->smtpSend('Date: Wed, 14 J...', 'This is a multi...')
+#2 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1215): PHPMailer->postSend()
+#3 /home2/kenspayc/public_html/app/user.php(507): PHPMailer->send()
+#4 /home2/kenspayc/public_html/app/user.php(10): user_login()
+#5 {main}
+  thrown in /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php on line 1699
+[14-Jul-2021 10:10:18 Africa/Lagos] PHP Fatal error:  Uncaught phpmailerException: SMTP Error: Could not authenticate. in /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php:1699
+Stack trace:
+#0 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1542): PHPMailer->smtpConnect(Array)
+#1 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1337): PHPMailer->smtpSend('Date: Wed, 14 J...', 'This is a multi...')
+#2 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1215): PHPMailer->postSend()
+#3 /home2/kenspayc/public_html/app/user.php(507): PHPMailer->send()
+#4 /home2/kenspayc/public_html/app/user.php(10): user_login()
+#5 {main}
+  thrown in /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php on line 1699
+[14-Jul-2021 10:54:06 Africa/Lagos] PHP Fatal error:  Uncaught phpmailerException: SMTP Error: Could not authenticate. in /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php:1699
+Stack trace:
+#0 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1542): PHPMailer->smtpConnect(Array)
+#1 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1337): PHPMailer->smtpSend('Date: Wed, 14 J...', 'This is a multi...')
+#2 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1215): PHPMailer->postSend()
+#3 /home2/kenspayc/public_html/app/user.php(507): PHPMailer->send()
+#4 /home2/kenspayc/public_html/app/user.php(10): user_login()
+#5 {main}
+  thrown in /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php on line 1699
+[14-Jul-2021 10:55:03 Africa/Lagos] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php:1543
+Stack trace:
+#0 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1337): PHPMailer->smtpSend('Date: Wed, 14 J...', 'This is a multi...')
+#1 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1215): PHPMailer->postSend()
+#2 /home2/kenspayc/public_html/app/user.php(507): PHPMailer->send()
+#3 /home2/kenspayc/public_html/app/user.php(10): user_login()
+#4 {main}
+  thrown in /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php on line 1543
+[14-Jul-2021 10:55:09 Africa/Lagos] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php:1543
+Stack trace:
+#0 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1337): PHPMailer->smtpSend('Date: Wed, 14 J...', 'This is a multi...')
+#1 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1215): PHPMailer->postSend()
+#2 /home2/kenspayc/public_html/app/user.php(507): PHPMailer->send()
+#3 /home2/kenspayc/public_html/app/user.php(10): user_login()
+#4 {main}
+  thrown in /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php on line 1543
+[14-Jul-2021 11:43:01 Africa/Lagos] PHP Fatal error:  Uncaught phpmailerException: SMTP Error: Could not authenticate. in /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php:1699
+Stack trace:
+#0 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1542): PHPMailer->smtpConnect(Array)
+#1 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1337): PHPMailer->smtpSend('Date: Wed, 14 J...', 'This is a multi...')
+#2 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1215): PHPMailer->postSend()
+#3 /home2/kenspayc/public_html/app/user.php(507): PHPMailer->send()
+#4 /home2/kenspayc/public_html/app/user.php(10): user_login()
+#5 {main}
+  thrown in /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php on line 1699
+[14-Jul-2021 11:43:13 Africa/Lagos] PHP Fatal error:  Uncaught phpmailerException: SMTP Error: Could not authenticate. in /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php:1699
+Stack trace:
+#0 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1542): PHPMailer->smtpConnect(Array)
+#1 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1337): PHPMailer->smtpSend('Date: Wed, 14 J...', 'This is a multi...')
+#2 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1215): PHPMailer->postSend()
+#3 /home2/kenspayc/public_html/app/user.php(507): PHPMailer->send()
+#4 /home2/kenspayc/public_html/app/user.php(10): user_login()
+#5 {main}
+  thrown in /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php on line 1699
+[14-Jul-2021 11:52:47 Africa/Lagos] PHP Fatal error:  Uncaught phpmailerException: SMTP Error: Could not authenticate. in /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php:1699
+Stack trace:
+#0 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1542): PHPMailer->smtpConnect(Array)
+#1 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1337): PHPMailer->smtpSend('Date: Wed, 14 J...', 'This is a multi...')
+#2 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1215): PHPMailer->postSend()
+#3 /home2/kenspayc/public_html/app/user.php(507): PHPMailer->send()
+#4 /home2/kenspayc/public_html/app/user.php(10): user_login()
+#5 {main}
+  thrown in /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php on line 1699
+[14-Jul-2021 13:12:56 Africa/Lagos] PHP Fatal error:  Uncaught phpmailerException: SMTP Error: Could not authenticate. in /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php:1699
+Stack trace:
+#0 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1542): PHPMailer->smtpConnect(Array)
+#1 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1337): PHPMailer->smtpSend('Date: Wed, 14 J...', 'This is a multi...')
+#2 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1215): PHPMailer->postSend()
+#3 /home2/kenspayc/public_html/app/user.php(507): PHPMailer->send()
+#4 /home2/kenspayc/public_html/app/user.php(10): user_login()
+#5 {main}
+  thrown in /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php on line 1699
+[14-Jul-2021 13:45:24 Africa/Lagos] PHP Fatal error:  Uncaught phpmailerException: SMTP Error: Could not authenticate. in /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php:1699
+Stack trace:
+#0 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1542): PHPMailer->smtpConnect(Array)
+#1 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1337): PHPMailer->smtpSend('Date: Wed, 14 J...', 'This is a multi...')
+#2 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1215): PHPMailer->postSend()
+#3 /home2/kenspayc/public_html/app/user.php(507): PHPMailer->send()
+#4 /home2/kenspayc/public_html/app/user.php(10): user_login()
+#5 {main}
+  thrown in /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php on line 1699
+[14-Jul-2021 14:26:19 Africa/Lagos] PHP Fatal error:  Uncaught phpmailerException: SMTP Error: Could not authenticate. in /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php:1699
+Stack trace:
+#0 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1542): PHPMailer->smtpConnect(Array)
+#1 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1337): PHPMailer->smtpSend('Date: Wed, 14 J...', 'This is a multi...')
+#2 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1215): PHPMailer->postSend()
+#3 /home2/kenspayc/public_html/app/user.php(175): PHPMailer->send()
+#4 /home2/kenspayc/public_html/app/user.php(71): user_verification('1', '1626269176')
+#5 {main}
+  thrown in /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php on line 1699
+[14-Jul-2021 16:08:24 Africa/Lagos] PHP Fatal error:  Uncaught phpmailerException: SMTP Error: Could not authenticate. in /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php:1699
+Stack trace:
+#0 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1542): PHPMailer->smtpConnect(Array)
+#1 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1337): PHPMailer->smtpSend('Date: Wed, 14 J...', 'This is a multi...')
+#2 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1215): PHPMailer->postSend()
+#3 /home2/kenspayc/public_html/app/user.php(507): PHPMailer->send()
+#4 /home2/kenspayc/public_html/app/user.php(10): user_login()
+#5 {main}
+  thrown in /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php on line 1699
+[14-Jul-2021 20:47:37 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home2/kenspayc/public_html/app/calculator.php:256
+Stack trace:
+#0 /home2/kenspayc/public_html/app/calculator.php(18): order_product()
+#1 {main}
+  thrown in /home2/kenspayc/public_html/app/calculator.php on line 256
+[14-Jul-2021 20:49:18 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home2/kenspayc/public_html/app/calculator.php:256
+Stack trace:
+#0 /home2/kenspayc/public_html/app/calculator.php(18): order_product()
+#1 {main}
+  thrown in /home2/kenspayc/public_html/app/calculator.php on line 256
+[14-Jul-2021 20:54:54 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home2/kenspayc/public_html/app/calculator.php:256
+Stack trace:
+#0 /home2/kenspayc/public_html/app/calculator.php(18): order_product()
+#1 {main}
+  thrown in /home2/kenspayc/public_html/app/calculator.php on line 256
+[14-Jul-2021 21:05:39 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home2/kenspayc/public_html/app/calculator.php:258
+Stack trace:
+#0 /home2/kenspayc/public_html/app/calculator.php(18): order_product()
+#1 {main}
+  thrown in /home2/kenspayc/public_html/app/calculator.php on line 258
+[18-Aug-2021 10:25:12 Africa/Lagos] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php:1543
+Stack trace:
+#0 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1337): PHPMailer->smtpSend('Date: Wed, 18 A...', 'This is a multi...')
+#1 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1215): PHPMailer->postSend()
+#2 /home2/kenspayc/public_html/app/user.php(507): PHPMailer->send()
+#3 /home2/kenspayc/public_html/app/user.php(10): user_login()
+#4 {main}
+  thrown in /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php on line 1543
+[18-Aug-2021 10:27:54 Africa/Lagos] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php:1543
+Stack trace:
+#0 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1337): PHPMailer->smtpSend('Date: Wed, 18 A...', 'This is a multi...')
+#1 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1215): PHPMailer->postSend()
+#2 /home2/kenspayc/public_html/app/user.php(507): PHPMailer->send()
+#3 /home2/kenspayc/public_html/app/user.php(10): user_login()
+#4 {main}
+  thrown in /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php on line 1543
+[18-Aug-2021 10:36:24 Africa/Lagos] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php:1543
+Stack trace:
+#0 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1337): PHPMailer->smtpSend('Date: Wed, 18 A...', 'This is a multi...')
+#1 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1215): PHPMailer->postSend()
+#2 /home2/kenspayc/public_html/app/user.php(507): PHPMailer->send()
+#3 /home2/kenspayc/public_html/app/user.php(10): user_login()
+#4 {main}
+  thrown in /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php on line 1543
+[18-Aug-2021 10:46:11 Africa/Lagos] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php:1543
+Stack trace:
+#0 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1337): PHPMailer->smtpSend('Date: Wed, 18 A...', 'This is a multi...')
+#1 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1215): PHPMailer->postSend()
+#2 /home2/kenspayc/public_html/app/user.php(507): PHPMailer->send()
+#3 /home2/kenspayc/public_html/app/user.php(10): user_login()
+#4 {main}
+  thrown in /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php on line 1543
+[18-Aug-2021 10:48:12 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[18-Aug-2021 10:48:12 Africa/Lagos] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php:1543
+Stack trace:
+#0 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1337): PHPMailer->smtpSend('Date: Wed, 18 A...', 'This is a multi...')
+#1 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1215): PHPMailer->postSend()
+#2 /home2/kenspayc/public_html/app/user.php(507): PHPMailer->send()
+#3 /home2/kenspayc/public_html/app/user.php(10): user_login()
+#4 {main}
+  thrown in /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php on line 1543
+[18-Aug-2021 10:48:50 Africa/Lagos] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php:1543
+Stack trace:
+#0 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1337): PHPMailer->smtpSend('Date: Wed, 18 A...', 'This is a multi...')
+#1 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1215): PHPMailer->postSend()
+#2 /home2/kenspayc/public_html/app/user.php(507): PHPMailer->send()
+#3 /home2/kenspayc/public_html/app/user.php(10): user_login()
+#4 {main}
+  thrown in /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php on line 1543
+[18-Aug-2021 10:51:14 Africa/Lagos] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php:1543
+Stack trace:
+#0 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1337): PHPMailer->smtpSend('Date: Wed, 18 A...', 'This is a multi...')
+#1 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1215): PHPMailer->postSend()
+#2 /home2/kenspayc/public_html/app/user.php(507): PHPMailer->send()
+#3 /home2/kenspayc/public_html/app/user.php(10): user_login()
+#4 {main}
+  thrown in /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php on line 1543
+[18-Aug-2021 10:52:04 Africa/Lagos] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php:1543
+Stack trace:
+#0 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1337): PHPMailer->smtpSend('Date: Wed, 18 A...', 'This is a multi...')
+#1 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1215): PHPMailer->postSend()
+#2 /home2/kenspayc/public_html/app/user.php(507): PHPMailer->send()
+#3 /home2/kenspayc/public_html/app/user.php(10): user_login()
+#4 {main}
+  thrown in /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php on line 1543
+[18-Aug-2021 12:52:53 Africa/Lagos] PHP Fatal error:  Uncaught phpmailerException: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php:1543
+Stack trace:
+#0 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1337): PHPMailer->smtpSend('Date: Wed, 18 A...', 'This is a multi...')
+#1 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1215): PHPMailer->postSend()
+#2 /home2/kenspayc/public_html/app/user.php(507): PHPMailer->send()
+#3 /home2/kenspayc/public_html/app/user.php(10): user_login()
+#4 {main}
+  thrown in /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php on line 1543
+[24-Aug-2021 12:16:57 Africa/Lagos] PHP Fatal error:  Uncaught phpmailerException: SMTP Error: The following recipients failed: sample@email.tst: The mail server could not deliver mail to sample@email.tst.  The account or
+domain may not exist, they may be blacklisted, or missing the proper dns
+entries.
+ in /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php:1585
+Stack trace:
+#0 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1337): PHPMailer->smtpSend('Date: Tue, 24 A...', 'This is a multi...')
+#1 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1215): PHPMailer->postSend()
+#2 /home2/kenspayc/public_html/app/user.php(175): PHPMailer->send()
+#3 /home2/kenspayc/public_html/app/user.php(71): user_verification('1', '1629803815')
+#4 {main}
+  thrown in /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php on line 1585
+[24-Aug-2021 12:16:58 Africa/Lagos] PHP Fatal error:  Uncaught phpmailerException: SMTP Error: The following recipients failed: sample@email.tst: The mail server could not deliver mail to sample@email.tst.  The account or
+domain may not exist, they may be blacklisted, or missing the proper dns
+entries.
+ in /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php:1585
+Stack trace:
+#0 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1337): PHPMailer->smtpSend('Date: Tue, 24 A...', 'This is a multi...')
+#1 /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php(1215): PHPMailer->postSend()
+#2 /home2/kenspayc/public_html/app/user.php(853): PHPMailer->send()
+#3 /home2/kenspayc/public_html/app/user.php(46): user_forgot()
+#4 {main}
+  thrown in /home2/kenspayc/public_html/lib/phpmailer/class.phpmailer.php on line 1585
+[22-Sep-2021 12:08:21 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home2/kenspayc/public_html/app/user.php:465
+Stack trace:
+#0 /home2/kenspayc/public_html/app/user.php(10): user_login()
+#1 {main}
+  thrown in /home2/kenspayc/public_html/app/user.php on line 465
+[22-Sep-2021 13:43:47 Africa/Lagos] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/kenspayc/public_html/app/config.php:21) in /home2/kenspayc/public_html/app/user.php on line 102
+[22-Sep-2021 13:43:51 Africa/Lagos] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/kenspayc/public_html/app/config.php:21) in /home2/kenspayc/public_html/app/user.php on line 102
+[22-Sep-2021 15:09:07 Africa/Lagos] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/kenspayc/public_html/app/config.php:21) in /home2/kenspayc/public_html/app/user.php on line 102
+[22-Sep-2021 15:32:49 Africa/Lagos] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/kenspayc/public_html/app/config.php:21) in /home2/kenspayc/public_html/app/user.php on line 102
+[22-Sep-2021 17:57:10 Africa/Lagos] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/kenspayc/public_html/app/config.php:21) in /home2/kenspayc/public_html/app/user.php on line 102
+[22-Sep-2021 18:50:54 Africa/Lagos] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/kenspayc/public_html/app/config.php:21) in /home2/kenspayc/public_html/app/user.php on line 102
+[22-Sep-2021 22:42:42 Africa/Lagos] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/kenspayc/public_html/app/config.php:21) in /home2/kenspayc/public_html/app/user.php on line 102
+[23-Sep-2021 05:44:30 UTC] PHP Parse error:  syntax error, unexpected '<' in /home2/kenspayc/public_html/app/user.php on line 827
+[23-Sep-2021 05:44:44 UTC] PHP Parse error:  syntax error, unexpected '<' in /home2/kenspayc/public_html/app/user.php on line 827
+[23-Sep-2021 05:48:47 UTC] PHP Parse error:  syntax error, unexpected '<' in /home2/kenspayc/public_html/app/user.php on line 827
+[23-Sep-2021 05:48:57 UTC] PHP Parse error:  syntax error, unexpected '<' in /home2/kenspayc/public_html/app/user.php on line 827
+[23-Sep-2021 05:49:36 UTC] PHP Parse error:  syntax error, unexpected token "<" in /home2/kenspayc/public_html/app/user.php on line 827
+[23-Sep-2021 06:51:26 Africa/Lagos] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[23-Sep-2021 06:52:46 Africa/Lagos] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/kenspayc/public_html/app/config.php:21) in /home2/kenspayc/public_html/app/user.php on line 103
+[24-Sep-2021 05:46:19 Africa/Lagos] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[24-Sep-2021 05:47:29 Africa/Lagos] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[24-Sep-2021 05:49:00 Africa/Lagos] PHP Warning:  Undefined array key "logieeee" in /home2/kenspayc/public_html/app/user.php on line 496
+[24-Sep-2021 05:49:33 Africa/Lagos] PHP Warning:  Undefined array key "logieeee" in /home2/kenspayc/public_html/app/user.php on line 496
+[24-Sep-2021 05:50:19 Africa/Lagos] PHP Warning:  Undefined array key "logieeee" in /home2/kenspayc/public_html/app/user.php on line 496
+[24-Sep-2021 06:54:57 Africa/Lagos] PHP Warning:  Undefined array key "logieeee" in /home2/kenspayc/public_html/app/user.php on line 496
+[24-Sep-2021 06:59:35 Africa/Lagos] PHP Warning:  Undefined array key "ye_ran" in /home2/kenspayc/public_html/app/user.php on line 438
+[24-Sep-2021 06:59:36 Africa/Lagos] PHP Warning:  Undefined array key "ye_ran" in /home2/kenspayc/public_html/app/user.php on line 438
+[24-Sep-2021 07:12:22 Africa/Lagos] PHP Warning:  Undefined array key "logieeee" in /home2/kenspayc/public_html/app/user.php on line 496
+[24-Sep-2021 07:13:00 Africa/Lagos] PHP Warning:  Undefined array key "logieeee" in /home2/kenspayc/public_html/app/user.php on line 496
+[24-Sep-2021 07:14:33 Africa/Lagos] PHP Warning:  Undefined array key "logieeee" in /home2/kenspayc/public_html/app/user.php on line 496
+[24-Sep-2021 07:14:47 Africa/Lagos] PHP Warning:  Undefined array key "logieeee" in /home2/kenspayc/public_html/app/user.php on line 496
+[28-Sep-2021 05:01:37 Africa/Lagos] PHP Warning:  Undefined array key "logieeee" in /home2/kenspayc/public_html/app/user.php on line 496
+[28-Sep-2021 05:07:24 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[28-Sep-2021 05:08:24 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[01-Oct-2021 05:06:14 Africa/Lagos] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/kenspayc/public_html/app/config.php:23) in /home2/kenspayc/public_html/app/user.php on line 103
+[08-Oct-2021 16:21:24 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home2/kenspayc/public_html/app/user.php on line 497
+[12-Oct-2021 05:31:42 Africa/Lagos] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/kenspayc/public_html/app/config.php:23) in /home2/kenspayc/public_html/app/user.php on line 103
+[12-Oct-2021 05:56:47 Africa/Lagos] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/kenspayc/public_html/app/config.php:23) in /home2/kenspayc/public_html/app/user.php on line 103
+[12-Oct-2021 06:23:04 Africa/Lagos] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/kenspayc/public_html/app/config.php:23) in /home2/kenspayc/public_html/app/user.php on line 103
+[12-Oct-2021 07:00:20 Africa/Lagos] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/kenspayc/public_html/app/config.php:23) in /home2/kenspayc/public_html/app/user.php on line 103
+[12-Oct-2021 07:10:32 Africa/Lagos] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/kenspayc/public_html/app/config.php:23) in /home2/kenspayc/public_html/app/user.php on line 103
+[12-Oct-2021 07:13:13 Africa/Lagos] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/kenspayc/public_html/app/config.php:23) in /home2/kenspayc/public_html/app/user.php on line 103
+[12-Oct-2021 09:51:03 Africa/Lagos] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/kenspayc/public_html/app/config.php:23) in /home2/kenspayc/public_html/app/user.php on line 103
+[12-Oct-2021 18:21:50 Africa/Lagos] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/kenspayc/public_html/app/config.php:23) in /home2/kenspayc/public_html/app/user.php on line 103
+[13-Oct-2021 05:38:37 Africa/Lagos] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/kenspayc/public_html/app/config.php:23) in /home2/kenspayc/public_html/app/user.php on line 103
+[13-Oct-2021 07:06:11 Africa/Lagos] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/kenspayc/public_html/app/config.php:23) in /home2/kenspayc/public_html/app/user.php on line 103
+[13-Oct-2021 07:47:48 Africa/Lagos] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/kenspayc/public_html/app/config.php:23) in /home2/kenspayc/public_html/app/user.php on line 84
+[13-Oct-2021 07:49:11 Africa/Lagos] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/kenspayc/public_html/app/config.php:23) in /home2/kenspayc/public_html/app/user.php on line 84
+[13-Oct-2021 12:11:28 Africa/Lagos] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/kenspayc/public_html/app/config.php:23) in /home2/kenspayc/public_html/app/user.php on line 103
+[14-Oct-2021 06:18:12 Africa/Lagos] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/kenspayc/public_html/app/config.php:23) in /home2/kenspayc/public_html/app/user.php on line 103
+[14-Oct-2021 06:49:08 Africa/Lagos] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/kenspayc/public_html/app/config.php:23) in /home2/kenspayc/public_html/app/user.php on line 103
+[28-Feb-2022 19:33:43 Africa/Lagos] PHP Warning:  Error while sending STMT_PREPARE packet. PID=24243 in /home2/kenspayc/public_html/app/calculator.php on line 274
+[28-Feb-2022 19:33:43 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home2/kenspayc/public_html/app/calculator.php:275
+Stack trace:
+#0 /home2/kenspayc/public_html/app/calculator.php(18): order_product()
+#1 {main}
+  thrown in /home2/kenspayc/public_html/app/calculator.php on line 275
+[01-Mar-2022 23:42:06 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function file_get() in /home2/kenspayc/public_html/app/user.php:830
+Stack trace:
+#0 /home2/kenspayc/public_html/app/user.php(12): user_reg()
+#1 {main}
+  thrown in /home2/kenspayc/public_html/app/user.php on line 830
+[01-Mar-2022 23:44:51 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function file_get() in /home2/kenspayc/public_html/app/user.php:830
+Stack trace:
+#0 /home2/kenspayc/public_html/app/user.php(12): user_reg()
+#1 {main}
+  thrown in /home2/kenspayc/public_html/app/user.php on line 830
+[28-Mar-2022 17:43:36 Africa/Lagos] PHP Warning:  Error while sending STMT_PREPARE packet. PID=854939 in /home2/kenspayc/public_html/app/calculator.php on line 274
+[28-Mar-2022 17:43:36 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home2/kenspayc/public_html/app/calculator.php:275
+Stack trace:
+#0 /home2/kenspayc/public_html/app/calculator.php(18): order_product()
+#1 {main}
+  thrown in /home2/kenspayc/public_html/app/calculator.php on line 275
+[16-Apr-2022 21:39:17 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function file_get() in /home2/kenspayc/public_html/app/user.php:830
+Stack trace:
+#0 /home2/kenspayc/public_html/app/user.php(12): user_reg()
+#1 {main}
+  thrown in /home2/kenspayc/public_html/app/user.php on line 830
+[19-Apr-2022 20:59:44 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function file_get() in /home2/kenspayc/public_html/app/user.php:830
+Stack trace:
+#0 /home2/kenspayc/public_html/app/user.php(12): user_reg()
+#1 {main}
+  thrown in /home2/kenspayc/public_html/app/user.php on line 830
+[19-Apr-2022 21:06:15 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function file_get() in /home2/kenspayc/public_html/app/user.php:830
+Stack trace:
+#0 /home2/kenspayc/public_html/app/user.php(12): user_reg()
+#1 {main}
+  thrown in /home2/kenspayc/public_html/app/user.php on line 830
+[20-Jul-2022 15:29:13 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function file_get() in /home2/kenspayc/public_html/app/user.php:830
+Stack trace:
+#0 /home2/kenspayc/public_html/app/user.php(12): user_reg()
+#1 {main}
+  thrown in /home2/kenspayc/public_html/app/user.php on line 830
+[29-Nov-2022 07:25:58 Africa/Lagos] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[29-Nov-2022 07:26:41 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[29-Nov-2022 07:26:54 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[29-Nov-2022 15:48:35 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[29-Nov-2022 16:26:34 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[29-Nov-2022 16:28:25 Africa/Lagos] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home2/kenspayc/public_html/app/castro_func.php on line 16
+[29-Nov-2022 19:27:55 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[10-Dec-2022 15:20:04 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[13-Dec-2022 09:40:17 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[16-Dec-2022 14:46:35 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[21-Dec-2022 09:52:59 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[21-Dec-2022 17:57:10 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[24-Dec-2022 21:33:41 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[28-Dec-2022 06:54:22 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[03-Jan-2023 15:59:59 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[03-Jan-2023 16:04:33 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[03-Jan-2023 16:05:26 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[03-Jan-2023 17:51:25 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[03-Jan-2023 19:27:24 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[05-Jan-2023 21:46:53 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[06-Jan-2023 14:43:13 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[07-Jan-2023 12:13:12 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[08-Jan-2023 18:20:11 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[09-Jan-2023 10:44:10 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[09-Jan-2023 15:28:46 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[09-Jan-2023 22:15:59 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[11-Jan-2023 12:14:30 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[13-Jan-2023 09:03:10 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[13-Jan-2023 20:50:08 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[14-Jan-2023 12:52:58 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[15-Jan-2023 20:57:08 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[15-Jan-2023 23:13:31 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[15-Jan-2023 23:14:33 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[16-Jan-2023 12:17:28 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[18-Jan-2023 16:00:15 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[19-Jan-2023 18:41:31 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[21-Jan-2023 13:27:36 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[21-Jan-2023 13:32:37 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[21-Jan-2023 13:35:24 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[22-Jan-2023 19:07:00 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[23-Jan-2023 03:48:01 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[24-Jan-2023 20:38:20 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[24-Jan-2023 20:39:35 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/kenspayc/public_html/app/calculator.php:275
+Stack trace:
+#0 /home2/kenspayc/public_html/app/calculator.php(18): order_product()
+#1 {main}
+  thrown in /home2/kenspayc/public_html/app/calculator.php on line 275
+[28-Jan-2023 12:15:06 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[28-Jan-2023 12:25:39 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[29-Jan-2023 22:48:41 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[30-Jan-2023 07:43:26 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[30-Jan-2023 11:11:58 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[30-Jan-2023 18:20:10 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[31-Jan-2023 07:35:51 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[01-Feb-2023 13:28:31 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[07-Feb-2023 11:36:31 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[11-Feb-2023 04:16:20 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[13-Feb-2023 11:14:14 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[13-Feb-2023 16:25:38 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[18-Feb-2023 03:21:12 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[18-Feb-2023 04:00:54 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[18-Feb-2023 09:27:23 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[21-Feb-2023 01:40:56 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[22-Feb-2023 23:41:24 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[24-Feb-2023 14:55:30 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[24-Feb-2023 14:58:57 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[24-Feb-2023 15:00:15 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[24-Feb-2023 15:17:08 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[24-Feb-2023 16:30:25 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[24-Feb-2023 16:51:50 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[24-Feb-2023 20:30:37 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[24-Feb-2023 22:13:55 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[24-Feb-2023 23:01:08 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[26-Feb-2023 12:23:58 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[26-Feb-2023 13:19:14 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[27-Feb-2023 21:43:11 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45
+[02-Mar-2023 06:57:24 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kenspayc/public_html/lib/phpmailer/PHPMailerAutoload.php on line 45

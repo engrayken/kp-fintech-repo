@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+<url>
+  <loc>https://kenspay.com/</loc>
+  <lastmod>2020-04-14T10:11:39+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://kenspay.com/index.php</loc>
+  <lastmod>2020-04-14T10:11:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kenspay.com/page.php?pid=5</loc>
+  <lastmod>2020-04-14T10:11:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kenspay.com/page.php?pid=6</loc>
+  <lastmod>2020-04-14T10:11:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kenspay.com/price.php</loc>
+  <lastmod>2020-04-14T10:11:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kenspay.com/login.php</loc>
+  <lastmod>2020-04-14T10:11:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kenspay.com/signup.php</loc>
+  <lastmod>2020-04-14T10:11:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kenspay.com/reseller.php</loc>
+  <lastmod>2020-04-14T10:11:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kenspay.com/page.php?pid=3</loc>
+  <lastmod>2020-04-14T10:11:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kenspay.com/page.php?pid=2</loc>
+  <lastmod>2020-04-14T10:11:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kenspay.com/page.php?pid=1</loc>
+  <lastmod>2020-04-14T10:11:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kenspay.com/document/</loc>
+  <lastmod>2020-04-14T10:11:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kenspay.com/about.php</loc>
+  <lastmod>2020-04-14T10:11:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kenspay.com/contact.php</loc>
+  <lastmod>2020-04-14T10:11:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kenspay.com/privacy.php</loc>
+  <lastmod>2020-04-14T10:11:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kenspay.com/forgot.php</loc>
+  <lastmod>2020-04-14T10:11:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kenspay.com/signup.php?type=personal</loc>
+  <lastmod>2020-04-14T10:11:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kenspay.com/signup.php?type=business</loc>
+  <lastmod>2020-04-14T10:11:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kenspay.com/signup.php?type=agent</loc>
+  <lastmod>2020-04-14T10:11:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kenspay.com/api.php</loc>
+  <lastmod>2020-04-14T10:11:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>

@@ -1,0 +1,1 @@
+RESULT=24&PNREF=BY0P4D3215B5&RESPMSG=Invalid expiration date: 10563-This transaction cannot be processed. Please enter a valid credit card expiration month.
